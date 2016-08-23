@@ -1,7 +1,7 @@
 # wordpress-sitemap.xml
 [![](http://www.wordpressleaf.com/logo.png)](http://www.wordpressleaf.com/)
 <br/><br/> 
-<a href="http://www.wordpressleaf.com/2016_566.html"><img align="right" src="http://www.wordpressleaf.com/logo-app.png" width="248" height="auto"/></a>
+<a href="http://www.wordpressleaf.com/2016_729.html"><img align="right" src="http://www.wordpressleaf.com/logo-app.png" width="248" height="auto"/></a>
 wordpress-sitemap.xml是利用sitemap.php来生成wordpress的sitemap.xml，这样做的目的是为了更好的被搜索引擎所收录。你也可以使用插件来达到这样的效果。
 
 
