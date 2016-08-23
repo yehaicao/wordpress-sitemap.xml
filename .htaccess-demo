@@ -1,0 +1,6 @@
+# BEGIN sitemap.xml
+<IfModule mod_rewrite.c>
+RewriteRule ^(sitemap)\.xml$ $1.php
+</IfModule>
+
+# END sitemap.xml
